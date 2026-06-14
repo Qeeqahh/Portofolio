@@ -1,12 +1,12 @@
-# Portfolio : Indanna Halwah Raqiqah Masyhur · 18224014
-
-Single-page portfolio website.  
-Dideploy otomatis ke GitHub Pages via GitHub Actions setiap push ke branch `main`.
+# Portfolio : Indanna Halwah Raqiqah Masyhur (18224014)
+## IF2050 Foundations of Software Engineering
+A single-page portfolio website.  
+Automatically deployed to GitHub Pages via GitHub Actions on every push to `main`.
 
 ## Stack
-- HTML / CSS / JavaScript murni (tanpa framework)
-- GitHub Actions untuk CI/CD pipeline
-- GitHub Pages untuk hosting
+- HTML / CSS / Vanilla JavaScript (no framework, no build step)
+- GitHub Actions for CI/CD pipeline
+- GitHub Pages for hosting
 
 ## Live
-[]()
+https://qeeqahh.github.io/Portofolio/
