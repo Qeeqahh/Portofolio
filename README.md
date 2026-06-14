@@ -1,6 +1,6 @@
-# Portfolio — Indanna Halwah Raqiqah Masyhur · 18224014
+# Portfolio : Indanna Halwah Raqiqah Masyhur · 18224014
 
-Single-page portfolio website dengan tema Blade Runner / neon-noir.  
+Single-page portfolio website.  
 Dideploy otomatis ke GitHub Pages via GitHub Actions setiap push ke branch `main`.
 
 ## Stack
